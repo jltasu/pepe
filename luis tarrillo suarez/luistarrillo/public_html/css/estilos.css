@@ -1,0 +1,36 @@
+body{
+    background-image: url("../imagenes/fondo.jpg");
+}
+.menu li{
+	background:#7f8c8d;
+	color:#fff;
+	display:inline-block;
+	font-size:20px;
+	margin:20px;
+	padding:10px 0;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+        border-radius: 10px;
+}
+#contenido{
+    background-image: url("../imagenes/html55.jpg");
+    height:519px ;
+    width: 950px;
+}
+.navigation li{
+     display: inline;
+     margin: 20px;
+}
+#nota{  
+   text-align: center;
+   padding: 20px;
+}
+.featured{
+    width: 500px;
+    text-align:justify;
+}
+.footer{
+    padding: 30px;
+    text-align: center;
+}
